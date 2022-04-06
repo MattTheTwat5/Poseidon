@@ -19,3 +19,5 @@ Scroll farther down and under "authorization" copy the token                    
 Paste that into the Script aswell                                                                                                                         <br>
 Choose the amount of messages you want to send and the message content                                                                                    <br>
 Choose if you want it to spam in tts (only works on servers with tts enabled - doesnt work in direct messages)                                            <br>
+                                                                                                                                                          <br>
+Tested on Windows 10 / Python 3 || Linux should work aswell but i cannot confirm
