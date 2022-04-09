@@ -19,7 +19,7 @@ print("                              ||  ╚═╝░░░░░░╚═══
 time.sleep(0.2)
 print("                              ||                                                                ||")
 time.sleep(0.2)
-print("                              ||    -by MattTheTwat5                                            ||")
+print("                              ||    -by Mattlwurscht                                            ||")
 time.sleep(0.2)
 print("                              ====================================================================")
 print()
